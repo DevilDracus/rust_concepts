@@ -1,0 +1,1 @@
+Rust text sample to read!
